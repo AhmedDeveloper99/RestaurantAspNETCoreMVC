@@ -1,0 +1,78 @@
+﻿@model RestaurantAspNETCoreMVC.Models.Flavour
+
+@{
+    ViewData["Title"] = "FamousFlavorEdit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>FamousFlavorEdit</h1>
+
+<h4>Flavour</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="FamousFlavorEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Flavour_Id" />
+            <div class="form-group">
+                <label asp-for="Flavour_Name" class="control-label"></label>
+                <input asp-for="Flavour_Name" class="form-control" />
+                <span asp-validation-for="Flavour_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+               @*  <label asp-for="Flavour_Image" class="control-label"></label> *@
+                <input type="hidden" asp-for="Flavour_Image" class="form-control" />
+                <span asp-validation-for="Flavour_Image" class="text-danger"></span>
+            </div> 
+            <div class="form-group">
+                <label asp-for="Flavour_Desc" class="control-label"></label>
+                <input asp-for="Flavour_Desc" class="form-control" />
+                <span asp-validation-for="Flavour_Desc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+<h1>Image Update </h1>
+
+
+<div class="row">
+    <div class="col-md-12">
+        <form method="post" asp-action="FamousFlavorEditImage" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Flavour_Id" />
+            <div class="form-group">
+               @*  <label asp-for="Flavour_Name" class="control-label"></label> *@
+                <input type="hidden" asp-for="Flavour_Name" class="form-control" />
+                <span asp-validation-for="Flavour_Name" class="text-danger"></span>
+            </div>
+                <div class="form-group">
+            <label asp-for="Flavour_Image" class="control-label"></label>
+               
+            <input type="file" asp-for="Flavour_Image" class="form-control" />
+            <span asp-validation-for="Flavour_Image" class="text-danger"></span>
+            </div> 
+            <div class="form-group">
+               @*  <label asp-for="Flavour_Desc" class="control-label"></label> *@
+                
+                <input type="hidden" asp-for="Flavour_Desc" class="form-control" />
+                <span asp-validation-for="Flavour_Desc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+
+        <img src="@("~/famous_flavorIMG/"+Model.Flavour_Image)" asp-append-version="true" width="300px" height="300px" />
+    </div>
+</div>
+<div>
+    <a asp-action="FamousFlavorFetch">Back to List</a>
+</div>
+

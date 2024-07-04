@@ -1,0 +1,42 @@
+﻿@model IEnumerable<RestaurantAspNETCoreMVC.Models.FAQs>
+
+@{
+    ViewData["Title"] = "FAQitems";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>FAQitems</h1>
+
+<p>
+    <a asp-action="FAQitemsAdd"><button type="button" class="btn btn-primary">Add FAQ</button></a>
+</p>
+<table class="table table-bordered table-hover table-dark">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Faq_Question)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Faq_Answer)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Faq_Question)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Faq_Answer)
+            </td>
+            <td>
+                    <a asp-action="FAQitemsEdit" asp-route-id="@item.Faq_Id">Edit</a> |
+                    <a asp-action="FAQitemsDetails" asp-route-id="@item.Faq_Id">Details</a> |
+                    <a asp-action="FAQitemsDelete" asp-route-id="@item.Faq_Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

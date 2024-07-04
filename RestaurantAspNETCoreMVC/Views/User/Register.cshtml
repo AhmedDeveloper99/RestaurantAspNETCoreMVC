@@ -1,0 +1,159 @@
+﻿@model RestaurantAspNETCoreMVC.Models.Register
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Form</title>
+</head>
+ <style>
+   {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        
+
+    
+    }
+
+    
+
+    body {
+        font-family: Arial, sans-serif;
+  /*       background-color: #f0f0f0;
+        display: grid;
+        justify-content: center;
+        height: 80vh; */
+        background: linear-gradient(to right,#536976,#292e49);
+    }
+
+    h1 {
+        color: white;
+        font-size: 40px;
+        margin-top: 20px;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+
+    .cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .rop {
+        margin-top: 20px;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.6);
+        width: 600px;
+        min-height: 650px;
+    }
+  
+    .form-group {
+        margin-bottom: 10px;
+       /*  display: inline-block; */
+    }
+     
+    label {
+        display: block;
+        font-weight: bold;
+        color: black;
+        text-align: center;
+        margin-bottom: 5px;
+        font-size: 18px;
+    }
+   
+    input[type="text"],
+    input[type="password"],
+    input[type="number"] {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        transition: border-color 0.3s ease;
+    }
+
+    .genders {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        transition: border-color 0.3s ease;
+    }
+
+    input[type="text"]:focus,
+    input[type="password"]:focus,
+    input[type="number"]:focus {
+        outline: none;
+        border-color: #007bff;
+    }
+   
+    .error {
+        color: red;
+    }
+
+    button[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        font-size: 17px;
+        margin-top: 10px;
+    }
+
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+        
+</style> 
+<body>
+    <h1>Sign Up</h1> 
+    <div class="container cont">
+            <div class="row rop">
+                <div class="col-md-12">
+        <form method="post">
+            <div class="form-group">
+                <label for="Name">Name:</label>
+                <input type="text" placeholder="Enter Name" name="User_Name" required>
+            </div>
+            <div class="form-group">
+                <label for="Email">Email:</label>
+                <input type="text" placeholder="Enter Email" name="User_Email" required>
+            </div>
+            <div class="form-group">
+                <label for="Contact">Contact:</label>
+                <input type="text" placeholder="Enter Number" name="User_Number" required>
+            </div>
+            <div class="form-group">
+                <label for="Password">Password:</label>
+                <input type="password" placeholder="Enter Password" name="User_Password" required>
+            </div>
+            <div class="form-group">
+                <label for="Password">Confirm Password:</label>
+                <input type="password" placeholder="Confirm password" name="User_Cpassword" required>
+                <p style="color:red">@ViewBag.Error </p>
+            </div>
+            <div class="form-group">
+                <label asp-for="User_Membership" class="control-label">Membership:</label>
+
+                <select required asp-for="User_Membership" asp-items="@ViewBag.Gender" class="genders">
+                    <option value="">---Select Membership---</option>
+                </select>
+            </div>
+            @*  <div class="form-group">
+                <label for="Age">Age:</label>
+                <input type="number" placeholder="Enter Age" name="Emp_age" required>
+                 <span id="passwordError" class="error"></span>
+                </div>*@
+            <button type="submit">Register</button>
+        </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

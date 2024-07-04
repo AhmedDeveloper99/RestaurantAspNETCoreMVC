@@ -1,0 +1,42 @@
+﻿@model IEnumerable<RestaurantAspNETCoreMVC.Models.Recipe>
+
+@{
+    ViewData["Title"] = "Recipe";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Recipe</h1>
+
+<p>
+    <a asp-action="RecipeAdded"><button type="button" class="btn btn-primary">Add Recipe</button></a>
+</p>
+<table class="table table-bordered table-hover table-dark">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Recipe_Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Recipe_Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Recipe_Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Recipe_Description)
+            </td>
+            <td>
+                    <a asp-action="RecipeEdit" asp-route-id="@item.Recipe_Id">Edit</a> |
+                    <a asp-action="RecipeDetails" asp-route-id="@item.Recipe_Id">Details</a> |
+                    <a asp-action="RecipeDelete" asp-route-id="@item.Recipe_Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

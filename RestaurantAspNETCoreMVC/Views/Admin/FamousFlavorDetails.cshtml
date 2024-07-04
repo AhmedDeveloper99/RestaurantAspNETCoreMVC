@@ -1,0 +1,37 @@
+﻿@model RestaurantAspNETCoreMVC.Models.Flavour
+
+@{
+    ViewData["Title"] = "FamousFlavorDetails";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>FamousFlavorDetails</h1>
+
+<div>
+    <h4>Flavour</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Flavour_Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Flavour_Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Flavour_Desc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Flavour_Desc)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Flavour_Image)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="~/famous_flavorIMG/@Html.DisplayFor(model => model.Flavour_Image)" width="200px" height="200px" />
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="FamousFlavorEdit" asp-route-id="@Model?.Flavour_Id">Edit</a> |
+    <a asp-action="FamousFlavorFetch">Back to List</a>
+</div>

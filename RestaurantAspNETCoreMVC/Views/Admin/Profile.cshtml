@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@* <h1>Profile</h1> *@
+
+@model List<Admin>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Admin Profile</h5>
+
+                    <!-- Vertical Form -->
+                    <form class="row g-3" method="post">
+                        <div class="col-12">
+                            <label for="inputNanme4" class="form-label">Admin Name</label>
+                            <input type="hidden" class="form-control" id="inputNanme4" name="Admin_Id" value="@Model[0].Admin_Id">
+                            <input type="text" class="form-control" id="inputNanme4" name="Admin_Name" value="@Model[0].Admin_Name">
+                        </div>
+                        <div class="col-12">
+                            <label for="inputEmail4" class="form-label">Admin Email</label>
+                            <input type="email" class="form-control" id="inputEmail4" name="Admin_Email" value="@Model[0].Admin_Email">
+                        </div>
+                        <div class="col-12">
+                            <label for="inputPassword4" class="form-label">Admin Password</label>
+                            <input type="password" class="form-control" id="inputPassword4" name="Admin_Password" value="@Model[0].Admin_Password">
+                        </div>
+                        <div class="col-12">
+
+                            <input type="hidden" class="form-control" id="inputAddress" placeholder="1234 Main St" name="Admin_Image" value="@Model[0].Admin_Image">
+                        </div>
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary">Update</button>
+
+                        </div>
+                    </form><!-- Vertical Form -->
+
+                </div>
+            </div>
+
+
+
+        </div>
+    @* </div> *@
+
+
+   @*  <div class="row"> *@
+        <div class="col-md-6">
+
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Admin Profile Change</h5>
+
+                    <!-- Vertical Form -->
+                    <form class="row g-3" method="post" enctype="multipart/form-data" asp-action="ChangeProfile">
+                        <div class="col-12">
+
+                            <input type="hidden" class="form-control" id="inputNanme4" name="Admin_Id" value="@Model[0].Admin_Id">
+                            <input type="hidden" class="form-control" id="inputNanme4" name="Admin_Name" value="@Model[0].Admin_Name">
+                            <input type="hidden" class="form-control" id="inputNanme4" name="Admin_Email" value="@Model[0].Admin_Email">
+                            <input type="hidden" class="form-control" id="inputNanme4" name="Admin_Password" value="@Model[0].Admin_Password">
+
+                            <div class="col-12">
+
+                                <input type="file" class="form-control" id="inputAddress" placeholder="1234 Main St" name="Admin_Image" value="@Model[0].Admin_Image">
+                            </div> <br /><br />
+                            <div class="text-center">
+                                <button type="submit" class="btn btn-primary">Update Image</button>
+
+                            </div>
+                    </form><!-- Vertical Form -->
+
+                    <img src="@("~/Admin_images/"+Model[0].Admin_Image)" asp-append-version="true" width="300px" height="350px" />
+
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+

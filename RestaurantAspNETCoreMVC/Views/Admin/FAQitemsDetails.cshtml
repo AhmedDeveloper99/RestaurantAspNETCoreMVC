@@ -1,0 +1,31 @@
+﻿@model RestaurantAspNETCoreMVC.Models.FAQs
+
+@{
+    ViewData["Title"] = "FAQitemsDetails";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>FAQitemsDetails</h1>
+
+<div>
+    <h4>FAQs</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Faq_Question)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Faq_Question)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Faq_Answer)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Faq_Answer)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Faq_Id">Edit</a> |
+    <a asp-action="FAQitems">Back to List</a>
+</div>

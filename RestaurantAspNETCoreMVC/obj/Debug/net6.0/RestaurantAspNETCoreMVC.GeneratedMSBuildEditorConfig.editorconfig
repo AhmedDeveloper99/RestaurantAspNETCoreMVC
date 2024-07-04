@@ -1,0 +1,251 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RestaurantAspNETCoreMVC
+build_property.RootNamespace = RestaurantAspNETCoreMVC
+build_property.ProjectDir = D:\Backup of Ice cream website\RestaurantAspNETCoreMVC\RestaurantAspNETCoreMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Backup of Ice cream website\RestaurantAspNETCoreMVC\RestaurantAspNETCoreMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/BooksAdded.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va3NBZGRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/BooksDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va3NEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/BooksDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va3NEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/BooksEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va3NFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/BooksFecth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va3NGZWN0aC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/ContactDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/ContactDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FamousFlavor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmFtb3VzRmxhdm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FamousFlavorDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmFtb3VzRmxhdm9yRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FamousFlavorDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmFtb3VzRmxhdm9yRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FamousFlavorEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmFtb3VzRmxhdm9yRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FamousFlavorFetch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmFtb3VzRmxhdm9yRmV0Y2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FAQitems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRkFRaXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FAQitemsAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRkFRaXRlbXNBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FAQitemsDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRkFRaXRlbXNEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FAQitemsDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRkFRaXRlbXNEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FAQitemsEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRkFRaXRlbXNFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/Feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmVlZGJhY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FeedbackDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmVlZGJhY2tEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/FeedbackDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmVlZGJhY2tEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/OrderDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXJEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/OrdersEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXJzRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/Recipe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVjaXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/RecipeAdded.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVjaXBlQWRkZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/RecipeDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVjaXBlRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/RecipeDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVjaXBlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/RecipeEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVjaXBlRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Admin/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Home/FamousFlavor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYW1vdXNGbGF2b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Home/ShowFlavor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93Rmxhdm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/AfterBuyBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZnRlckJ1eUJvb2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/AfterContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZnRlckNvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/AfterLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZnRlckxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/Books.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCb29rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/BuyBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCdXlCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/FamousFlavor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGYW1vdXNGbGF2b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/FaqShow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGYXFTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/Feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGZWVkYmFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/FreeRecipeShow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGcmVlUmVjaXBlU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backup of Ice cream website/RestaurantAspNETCoreMVC/RestaurantAspNETCoreMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3bmyu9sg4l

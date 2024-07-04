@@ -1,0 +1,47 @@
+﻿@model IEnumerable<RestaurantAspNETCoreMVC.Models.Flavour>
+
+@{
+    ViewData["Title"] = "FamousFlavorFetch";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<p>
+    <a asp-action="FamousFlavor"><button type="button" class="btn btn-primary">Add Flavor</button></a>
+</p>
+<table class="table table-dark table-bordered table-hover" style="text-align:center">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Flavour_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Flavour_Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Flavour_Desc)
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flavour_Name)
+            </td>
+                <td>
+                    <img src="~/famous_flavorIMG/@Html.DisplayFor(modelItem => item.Flavour_Image)" width="100px" height="100px" />
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flavour_Desc)
+            </td>
+            <td>
+                    <a asp-action="FamousFlavorEdit" asp-route-id="@item.Flavour_Id">Edit</a> |
+                    <a asp-action="FamousFlavorDetails" asp-route-id="@item.Flavour_Id">Details</a> |
+                    <a asp-action="FamousFlavorDelete" asp-route-id="@item.Flavour_Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

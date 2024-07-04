@@ -1,0 +1,54 @@
+﻿@model IEnumerable<RestaurantAspNETCoreMVC.Models.Books>
+
+@{
+    ViewData["Title"] = "BooksFecth";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>BooksFecth</h1>
+
+<p>
+    <a asp-action="BooksAdded"><button type="button" class="btn btn-primary">Add Book</button></a>
+</p>
+<table class="table table-bordered table-hover table-dark" style="text-align:center">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Book_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book_Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book_Cost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book_Image)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book_Name)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Book_Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Book_Cost)
+                </td>
+                <td>
+                    <img src="~/Books_Image/@Html.DisplayFor(modelItem => item.Book_Image)" width="100px" height="100px" />
+                </td>
+            <td>
+                    <a asp-action="BooksEdit" asp-route-id="@item.Book_Id">Edit</a> |
+                    <a asp-action="BooksDetails" asp-route-id="@item.Book_Id">Details</a> |
+                    <a asp-action="BooksDelete" asp-route-id="@item.Book_Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

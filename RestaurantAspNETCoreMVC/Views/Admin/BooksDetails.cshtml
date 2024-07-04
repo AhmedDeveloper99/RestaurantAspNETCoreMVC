@@ -1,0 +1,44 @@
+﻿@model RestaurantAspNETCoreMVC.Models.Books
+
+@{
+    ViewData["Title"] = "BooksDetails";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>BooksDetails</h1>
+
+<div>
+    <h4>Books</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Book_Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Book_Name)
+        </dd>
+      
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Book_Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Book_Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Book_Cost)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Book_Cost)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Book_Image)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="~/Books_Image/@Html.DisplayFor(model => model.Book_Image)"width="200px;" height="200px" />
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="BooksEdit" asp-route-id="@Model?.Book_Id">Edit</a> |
+    <a asp-action="BooksFecth">Back to List</a>
+</div>

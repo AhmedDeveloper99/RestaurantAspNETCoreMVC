@@ -1,0 +1,1238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\freerecipeshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\freerecipeshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\booksadded.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\booksadded.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240628071635_admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240628071635_admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\famousflavor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\famousflavor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\recipeedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\recipeedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\recipedelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\recipedelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\recipedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\recipedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\recipe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\recipe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\faqitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\faqitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\faqitemsadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\faqitemsadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\recipeadded.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\recipeadded.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\faqshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\faqshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\faqitemsdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\faqitemsdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\faqitemsedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\faqitemsedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\faqitemsdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\faqitemsdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\models\\faqs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\models\\faqs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240626175437_faqs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240626175437_faqs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\wwwroot\\admin\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\wwwroot\\admin\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\afterbuybook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\afterbuybook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\feedbackdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\feedbackdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\feedbackdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\feedbackdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\famousflavor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\famousflavor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\contactdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\contactdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\contactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\contactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\models\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\models\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\orderdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\orderdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\ordersedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\ordersedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\models\\buybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\models\\buybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240625145100_hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240625145100_hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\famousflavoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\famousflavoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\booksfecth.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\booksfecth.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\booksdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\booksdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\booksedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\booksedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240624093241_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240624093241_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\famousflavordelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\famousflavordelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\models\\flavour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\models\\flavour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\home\\showflavor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\home\\showflavor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\views\\user\\afterlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\views\\user\\afterlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240621125820_contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240621125820_contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240621114801_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240621114801_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240624163629_bookview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240624163629_bookview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240625144020_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240625144020_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240625142258_addnulableinbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240625142258_addnulableinbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240625084203_buybooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240625084203_buybooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240625081514_orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240625081514_orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240625083728_neworderbookinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240625083728_neworderbookinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240624200734_lasttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240624200734_lasttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240624195911_lasttrybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240624195911_lasttrybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|d:\\backup of ice cream website\\restaurantaspnetcoremvc\\restaurantaspnetcoremvc\\migrations\\20240626213404_recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D41B07-D1D2-47ED-BAFA-D3A2646934A5}|RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC.csproj|solutionrelative:restaurantaspnetcoremvc\\migrations\\20240626213404_recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Controllers\\AdminController.cs*",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Controllers\\AdminController.cs*",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:28:39.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Books.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\Books.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\Books.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\Books.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\Books.cshtml",
+              "ViewState": "AQIAAEsAAACwG8e0oIctwFQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:39:37.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T07:26:12.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Models\\Admin.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Admin.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:12:10.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAHcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T12:27:21.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Profile.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\Profile.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Profile.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T12:38:05.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Program.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Program.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:53:56.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:14:38.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Models\\Books.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Books.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Models\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:28:34.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "myContext.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\myContext.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Models\\myContext.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\myContext.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Models\\myContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:31:34.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BooksAdded.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\BooksAdded.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\BooksAdded.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\BooksAdded.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\BooksAdded.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T09:38:45.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FreeRecipeShow.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\FreeRecipeShow.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\FreeRecipeShow.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\FreeRecipeShow.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\FreeRecipeShow.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T22:03:39.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240628071635_admins.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240628071635_admins.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240628071635_admins.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240628071635_admins.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240628071635_admins.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:16:36.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAowG0AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:21:28.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:46:05.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\wwwroot\\assets\\css\\style.css",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\wwwroot\\assets\\css\\style.css",
+              "ViewState": "AQIAAAsAAAAAu2jZ0eUwwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-26T22:49:35.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FamousFlavor.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\FamousFlavor.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\FamousFlavor.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\FamousFlavor.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\FamousFlavor.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T13:52:27.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RecipeDetails.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeDetails.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeDetails.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeDetails.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeDetails.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T21:54:15.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Recipe.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Recipe.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\Recipe.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Recipe.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\Recipe.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T21:46:57.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecipeEdit.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeEdit.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeEdit.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeEdit.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeEdit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T21:56:56.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RecipeDelete.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeDelete.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeDelete.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeDelete.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeDelete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T21:55:58.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RecipeAdded.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeAdded.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeAdded.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeAdded.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\RecipeAdded.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T21:41:32.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FAQitemsAdd.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsAdd.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsAdd.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsAdd.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsAdd.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T18:00:02.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FAQitems.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitems.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitems.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitems.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitems.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T19:19:35.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FAQitemsDelete.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsDelete.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsDelete.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsDelete.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsDelete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T19:37:47.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FaqShow.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\FaqShow.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\FaqShow.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\FaqShow.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\FaqShow.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T19:05:29.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Models\\Recipe.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Recipe.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Models\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:31:34.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240626213404_recipes.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240626213404_recipes.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240626213404_recipes.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240626213404_recipes.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240626213404_recipes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:34:05.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T12:36:38.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FAQitemsDetails.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsDetails.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsDetails.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsDetails.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsDetails.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T19:21:44.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FAQitemsEdit.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsEdit.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsEdit.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsEdit.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\FAQitemsEdit.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T19:26:04.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FAQs.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\FAQs.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Models\\FAQs.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\FAQs.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Models\\FAQs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:44:31.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\Feedback.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Feedback.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\Feedback.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:48:38.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240626175437_faqs.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240626175437_faqs.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240626175437_faqs.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240626175437_faqs.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240626175437_faqs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:54:38.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Contact.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\Contact.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Contact.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:04:35.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Register.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\Register.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Register.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\Register.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T13:43:58.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\wwwroot\\admin\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\wwwroot\\admin\\assets\\css\\style.css",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\wwwroot\\admin\\assets\\css\\style.css",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\wwwroot\\admin\\assets\\css\\style.css",
+              "ViewState": "AQIAAE0CAADA6KKLLropwGICAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-26T12:58:51.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AfterBuyBook.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\AfterBuyBook.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\AfterBuyBook.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\AfterBuyBook.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\AfterBuyBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T12:16:41.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\Orders.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\Orders.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:27:18.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FeedbackDetails.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FeedbackDetails.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\FeedbackDetails.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FeedbackDetails.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\FeedbackDetails.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:53:00.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FeedbackDelete.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FeedbackDelete.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\FeedbackDelete.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FeedbackDelete.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\FeedbackDelete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:57:42.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FamousFlavor.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavor.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavor.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavor.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T18:03:45.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderBook.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\OrderBook.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Models\\OrderBook.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\OrderBook.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Models\\OrderBook.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:20:41.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ContactDelete.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\ContactDelete.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\ContactDelete.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\ContactDelete.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\ContactDelete.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:15:16.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ContactDetails.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\ContactDetails.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\ContactDetails.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\ContactDetails.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\ContactDetails.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:09:15.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrdersEdit.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\OrdersEdit.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\OrdersEdit.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\OrdersEdit.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\OrdersEdit.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:40:41.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderDelete.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\OrderDelete.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\OrderDelete.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\OrderDelete.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\OrderDelete.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAD0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:45:43.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\OrderDetails.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\OrderDetails.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\OrderDetails.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T09:41:43.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\Feedback.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\Feedback.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\Feedback.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T11:58:50.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BuyBook.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\BuyBook.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Models\\BuyBook.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\BuyBook.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Models\\BuyBook.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:40:50.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\Contact.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\Contact.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\Contact.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T13:03:27.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240625145100_hero.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625145100_hero.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240625145100_hero.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625145100_hero.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240625145100_hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:51:00.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240625144020_demo.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625144020_demo.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240625144020_demo.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625144020_demo.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240625144020_demo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:40:20.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240625142258_addnulableinBook.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625142258_addnulableinBook.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240625142258_addnulableinBook.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625142258_addnulableinBook.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240625142258_addnulableinBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:22:59.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240625084203_buybooks.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625084203_buybooks.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240625084203_buybooks.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625084203_buybooks.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240625084203_buybooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:42:03.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240625081514_orderbook.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625081514_orderbook.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240625081514_orderbook.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625081514_orderbook.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240625081514_orderbook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:15:15.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240625083728_neworderbookinit.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625083728_neworderbookinit.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240625083728_neworderbookinit.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240625083728_neworderbookinit.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240625083728_neworderbookinit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:37:28.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FamousFlavorEdit.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavorEdit.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavorEdit.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavorEdit.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavorEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T21:57:50.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240624200734_lastTime.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240624200734_lastTime.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240624200734_lastTime.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240624200734_lastTime.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240624200734_lastTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:07:34.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240624195911_LastTryBook.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240624195911_LastTryBook.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240624195911_LastTryBook.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240624195911_LastTryBook.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240624195911_LastTryBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:59:11.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BooksFecth.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\BooksFecth.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\BooksFecth.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\BooksFecth.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\BooksFecth.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T09:42:44.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Models\\Contact.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Contact.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:53:48.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240624163629_bookview.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240624163629_bookview.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240624163629_bookview.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240624163629_bookview.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240624163629_bookview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:36:30.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BooksEdit.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\BooksEdit.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\BooksEdit.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\BooksEdit.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\BooksEdit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:01:12.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BooksDetails.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\BooksDetails.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\BooksDetails.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\BooksDetails.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\BooksDetails.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:20:52.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240624093241_books.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240624093241_books.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240624093241_books.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240624093241_books.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240624093241_books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:32:41.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Flavour.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Flavour.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Models\\Flavour.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Flavour.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Models\\Flavour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:43:47.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FamousFlavorDelete.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavorDelete.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavorDelete.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavorDelete.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\FamousFlavorDelete.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T19:47:07.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T21:32:46.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ShowFlavor.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Home\\ShowFlavor.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Home\\ShowFlavor.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Home\\ShowFlavor.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Home\\ShowFlavor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T13:27:27.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T12:31:36.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\About.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\About.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\About.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\About.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T12:40:09.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240621125820_contact.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240621125820_contact.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240621125820_contact.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240621125820_contact.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240621125820_contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:58:20.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AfterLogin.cshtml",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\AfterLogin.cshtml",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Views\\User\\AfterLogin.cshtml",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Views\\User\\AfterLogin.cshtml",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Views\\User\\AfterLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAADFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T13:19:51.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240621114801_init.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240621114801_init.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Migrations\\20240621114801_init.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Migrations\\20240621114801_init.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Migrations\\20240621114801_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:48:01.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "RestaurantAspNETCoreMVC\\Models\\Feedback.cs",
+              "ToolTip": "D:\\Backup of Ice cream website\\RestaurantAspNETCoreMVC\\RestaurantAspNETCoreMVC\\Models\\Feedback.cs",
+              "RelativeToolTip": "RestaurantAspNETCoreMVC\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:43:21.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

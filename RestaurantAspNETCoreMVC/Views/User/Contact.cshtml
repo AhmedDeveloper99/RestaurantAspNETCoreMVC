@@ -1,0 +1,119 @@
+﻿@model RestaurantAspNETCoreMVC.Models.Contact
+<!-- Header Start -->
+<div class="jumbotron jumbotron-fluid page-header" style="margin-bottom: 90px;">
+    <div class="container text-center py-5">
+        <h1 class="text-white display-3 mt-lg-5">Contact</h1>
+        <div class="d-inline-flex align-items-center text-white">
+            <p class="m-0"><a class="text-white" href="">Home</a></p>
+            <i class="fa fa-circle px-3"></i>
+            <p class="m-0">Contact</p>
+        </div>
+    </div>
+</div>
+<!-- Header End -->
+<!-- Contact Start -->
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <h1 class="section-title position-relative text-center mb-5">Contact Us For Any Query</h1>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+                <div class="contact-form bg-light rounded p-5">
+                    <div id="success"></div>
+                    <form method="post">
+                        <div class="form-row">
+                            <div class="col-sm-6 control-group">
+                                <input type="text" class="form-control p-4" name="Contact_Name" id="name" placeholder="Your Name" required="required" data-validation-required-message="Please enter your name" />
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div class="col-sm-6 control-group">
+                                <input type="email" class="form-control p-4" name="Contact_Email" id="email" placeholder="Your Email" required="required" data-validation-required-message="Please enter your email" />
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            @* <input type="text" class="form-control p-4" name="Feed_IceCream" id="subject" placeholder="Subject" required="required" data-validation-required-message="Please enter a subject" /> *@
+                            <select asp-for="Contact_Branch" asp-items="@ViewBag.Branch" id="genders" style="   width: 100%;
+
+    border: 2px solid black;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    transition: border-color 0.3s ease;">
+                                <option value="" class="form-control" id="subject">---Branch--</option>
+                            </select>
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="control-group">
+                            <textarea class="form-control p-4" rows="6" name="Contact_Message" id="message" placeholder="Message" required="required" data-validation-required-message="Please enter your message"></textarea>
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div>
+                            <button class="btn btn-primary btn-block py-3 px-5" type="submit" id="sendMessageButton">Send Message</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Contact End -->
+
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-lg-6">
+                <h1 class="section-title position-relative mb-5">Best Services We Provide For Our Clients</h1>
+            </div>
+            <div class="col-lg-6 mb-5 mb-lg-0 pb-5 pb-lg-0"></div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="owl-carousel service-carousel">
+                    <div class="service-item">
+                        <div class="service-img mx-auto">
+                            <img class="rounded-circle w-100 h-100 bg-light p-3" src="../assets/img/service-1.jpg" style="object-fit: cover;">
+                        </div>
+                        <div class="position-relative text-center bg-light rounded p-4 pb-5" style="margin-top: -75px;">
+                            <h5 class="font-weight-semi-bold mt-5 mb-3 pt-5">Quality Maintain</h5>
+                            <p>A rich, sweet, creamy frozen food made from variously flavored cream and milk</p>
+
+                        </div>
+                    </div>
+                    <div class="service-item">
+                        <div class="service-img mx-auto">
+                            <img class="rounded-circle w-100 h-100 bg-light p-3" src="../assets/img/service-2.jpg" style="object-fit: cover;">
+                        </div>
+                        <div class="position-relative text-center bg-light rounded p-4 pb-5" style="margin-top: -75px;">
+                            <h5 class="font-weight-semi-bold mt-5 mb-3 pt-5">Individual Approach</h5>
+                            <p> similar to conventional ice cream, but softer and less dense due to more air being introduced during freezing</p>
+
+                        </div>
+                    </div>
+                    <div class="service-item">
+                        <div class="service-img mx-auto">
+                            <img class="rounded-circle w-100 h-100 bg-light p-3" src="../assets/img/service-3.jpg" style="object-fit: cover;">
+                        </div>
+                        <div class="position-relative text-center bg-light rounded p-4 pb-5" style="margin-top: -75px;">
+                            <h5 class="font-weight-semi-bold mt-5 mb-3 pt-5">Celebration Ice Cream</h5>
+                            <p>Beholding this ice cream is like glimpsing a work of art:swirls beckon with promises of pure delight.</p>
+
+                        </div>
+                    </div>
+                    <div class="service-item">
+                        <div class="service-img mx-auto">
+                            <img class="rounded-circle w-100 h-100 bg-light p-3" src="../assets/img/service-4.jpg" style="object-fit: cover;">
+                        </div>
+                        <div class="position-relative text-center bg-light rounded p-4 pb-5" style="margin-top: -75px;">
+                            <h5 class="font-weight-semi-bold mt-5 mb-3 pt-5">Delivery To Any Point</h5>
+                            <p>ice cream, frozen dairy food and common dessert made from cream or butterfat, milk, sugar, and flavourings.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

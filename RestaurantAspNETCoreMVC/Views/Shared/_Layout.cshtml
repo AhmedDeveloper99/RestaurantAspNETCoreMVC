@@ -1,0 +1,207 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>iCREAM - Ice Cream Shop Website Template</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="Free HTML Templates" name="keywords">
+        <meta content="Free HTML Templates" name="description">
+    
+        <!-- Favicon -->
+    <link href="../assets/img/favicon.ico" rel="icon">
+    
+        <!-- Google Web Fonts -->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+        <!-- Font Awesome -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    
+        <!-- Libraries Stylesheet -->
+    <link href="~/assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="~/assets/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <!-- Customized Bootstrap Stylesheet -->
+        <link href="~/assets/css/style.css" rel="stylesheet">
+    </head>
+    <style>
+    ::selection {
+        color: #151320;
+        background-color: #ea003e;
+    }
+
+    ::-webkit-scrollbar {
+        width: 15px;
+        background-color: #151320;
+        transition: 0.3s;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: linear-gradient(180deg, #151320, #e83e8c);
+        border-radius: 10px;
+    }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: linear-gradient(180deg, #e83e8c, #151320);
+            border-radius: 10px;
+        }
+
+    ::-webkit-scrollbar-track {
+        box-shadow: inset 1px 1px 4px #0ff;
+        border-radius: 10px;
+    }
+    </style>
+<body>
+       <!-- Topbar Start -->
+       <div class="container-fluid bg-primary py-3 d-none d-md-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center text-lg-left mb-2 mb-lg-0">
+                    <div class="d-inline-flex align-items-center">
+                        <a class="text-white pr-3" href="">FAQs</a>
+                        <span class="text-white">|</span>
+                        <a class="text-white px-3" href="">Help</a>
+                        <span class="text-white">|</span>
+                        <a class="text-white pl-3" href="">Support</a>
+                    </div>
+                </div>
+                <div class="col-md-6 text-center text-lg-right">
+                    <div class="d-inline-flex align-items-center">
+                        <a class="text-white px-3" href="">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a class="text-white px-3" href="">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a class="text-white px-3" href="">
+                            <i class="fab fa-linkedin-in"></i>
+                        </a>
+                        <a class="text-white px-3" href="">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a class="text-white pl-3" href="">
+                            <i class="fab fa-youtube"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Topbar End -->
+
+
+    <!-- Navbar Start -->
+    <div class="container-fluid position-relative nav-bar p-0" style="overflow:hidden">
+        <div class="container-lg position-relative p-0 px-lg-3" style="z-index: 9;" style="overflow:hidden">
+            <nav class="navbar navbar-expand-lg bg-white navbar-light shadow p-lg-0" style="overflow:hidden">
+                <a href="@Url.Action("Login","user")" class="navbar-brand d-block d-lg-none">
+                    <h1 class="m-0 display-4 text-primary"><span class="text-secondary">i</span>CREAM</h1>
+                </a>
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse" style="overflow:hidden">
+                    <div class="navbar-nav ml-auto py-0" style="overflow:hidden">
+                        <a href="@Url.Action("Index","user")" class="nav-item nav-link active">Home</a>
+                        <a href="@Url.Action("About","user")" class="nav-item nav-link">About</a>
+                        <a href="@Url.Action("Books","user")" class="nav-item nav-link">Books</a>
+                        <a href="@Url.Action("FaqShow","user")" class="nav-item nav-link">FAQ</a>
+                        <a href="@Url.Action("FreeRecipeShow","user")" class="nav-item nav-link">Recipe</a>
+                    @*     <a href="product.html" class="nav-item nav-link">Product</a> *@
+                       
+                       @*  <a href="product.html" class="nav-item nav-link">Service</a> *@
+                      
+                    </div>
+                    <a href="index.html" class="navbar-brand mx-5 d-none d-lg-block">
+                        <h1 class="m-0 display-4 text-primary"><span class="text-secondary">i</span>CREAM</h1>
+                    </a>
+                    <div class="navbar-nav mr-auto py-0" style="overflow:hidden">
+                      @*   <a href="@Url.Action("Contact","user")" class="nav-item nav-link">Feedback</a> *@
+                        <a href="@Url.Action("Feedback","user")" class="nav-item nav-link">Feedback</a>
+                        <a href="@Url.Action("Contact","user")" class="nav-item nav-link">Contact</a>
+                        @* <a href="gallery.html" class="nav-item nav-link">Gallery</a> *@
+                      @{
+                            if (string.IsNullOrEmpty(ViewBag.CheckSession))
+                            {
+                                <a href="@Url.Action("Register","user")" class="nav-item nav-link">Register</a>
+                                <a href="@Url.Action("Login","user")" class="nav-item nav-link">Login</a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("FamousFlavor","user")" class="nav-item nav-link">Flavors</a>
+                                <a href="@Url.Action("Logout","user")" class="nav-item nav-link">Logout</a>
+                               
+                             
+                            }
+                        } 
+                       
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <!-- Navbar End -->
+
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+
+ <!-- Footer Start -->
+ <div class="container-fluid footer bg-light py-5" style="margin-top: 90px;">
+    <div class="container text-center py-5">
+        <div class="row">
+            <div class="col-12 mb-4">
+                <a href="index.html" class="navbar-brand m-0">
+                    <h1 class="m-0 mt-n2 display-4 text-primary"><span class="text-secondary">i</span>CREAM</h1>
+                </a>
+            </div>
+            <div class="col-12 mb-4">
+                <a class="btn btn-outline-secondary btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-outline-secondary btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-outline-secondary btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-outline-secondary btn-social" href="#"><i class="fab fa-instagram"></i></a>
+            </div>
+            <div class="col-12 mt-2 mb-4">
+                <div class="row">
+                    <div class="col-sm-6 text-center text-sm-right border-right mb-3 mb-sm-0">
+                        <h5 class="font-weight-bold mb-2">Get In Touch</h5>
+                        <p class="mb-2">New York, USA</p>
+                        <p class="mb-0">+012 345 67890</p>
+                    </div>
+                    <div class="col-sm-6 text-center text-sm-left">
+                        <h5 class="font-weight-bold mb-2">Opening Hours</h5>
+                        <p class="mb-2">Mon – Sat, 8AM – 5PM</p>
+                        <p class="mb-0">Sunday: Closed</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <p class="m-0">&copy; <a href="#">Domain</a>. All Rights Reserved. Designed by <a href="https://htmlcodex.com">HTML Codex</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Footer End -->
+
+ <!-- Back to Top -->
+ <a href="#" class="btn btn-secondary px-2 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+</body>
+</html>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/lib/easing/easing.min.js"></script>
+    <script src="~/assets/lib/waypoints/waypoints.min.js"></script>
+    <script src="~/assets/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="~/assets/lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="~/assets/lib/lightbox/js/lightbox.min.js"></script>
+
+    <!-- Contact Javascript File -->
+<script src="~/assets/mail/jqBootstrapValidation.min.js"></script>
+<script src="~/assets/mail/contact.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <!-- Template Javascript -->
+<script src="~/assets/js/main.js"></script>

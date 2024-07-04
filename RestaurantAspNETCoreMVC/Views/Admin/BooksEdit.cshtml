@@ -1,0 +1,79 @@
+﻿@model RestaurantAspNETCoreMVC.Models.Books
+
+@{
+    ViewData["Title"] = "BooksEdit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>BooksEdit</h1>
+
+<h4>Books</h4>
+<hr />
+<div class="container">
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="BooksEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Book_Id" />
+            <div class="form-group">
+                <label asp-for="Book_Name" class="control-label"></label>
+                <input asp-for="Book_Name" class="form-control" />
+                <span asp-validation-for="Book_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+               
+                <input type="hidden" asp-for="Book_Image" class="form-control" />
+                <span asp-validation-for="Book_Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Book_Description" class="control-label"></label>
+                <input asp-for="Book_Description" class="form-control" />
+                <span asp-validation-for="Book_Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Book_Cost" class="control-label"></label>
+                <input asp-for="Book_Cost" class="form-control" />
+                <span asp-validation-for="Book_Cost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+
+        <div class="col-md-6">
+            <form asp-action="BooksEditImage" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Book_Id" />
+                <div class="form-group">
+                  
+                    <input type="hidden" asp-for="Book_Name" class="form-control" />
+                    <span asp-validation-for="Book_Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Book_Image" class="control-label"></label>
+                    <input type="file" asp-for="Book_Image" class="form-control" />
+                    <span asp-validation-for="Book_Image" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                   
+                    <input type="hidden" asp-for="Book_Description" class="form-control" />
+                    <span asp-validation-for="Book_Description" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                   
+                    <input type="hidden" asp-for="Book_Cost" class="form-control" />
+                    <span asp-validation-for="Book_Cost" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+            <img src="@("~/Books_Image/"+Model.Book_Image)" asp-append-version="true" width="300px" height="300px" />
+        </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+</div>

@@ -1,0 +1,101 @@
+﻿@model IEnumerable<RestaurantAspNETCoreMVC.Models.Recipe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .offers {
+        width: 100%;
+        min-height: 400px;
+        /* background: linear-gradient(to right,#232526,#4e4f50); */
+        background-color: transparent;
+    }
+
+        .offers .row {
+            display: flex;
+            justify-content: center;
+        }
+
+        .offers .box {
+            width: 100%;
+            border-radius: 10px;
+            min-height: 300px;
+            /* background: #e83e8c; */
+            /* background-color: white; */
+           /*  background-color: #FFEFBA; */
+            background-color: #fefbf2;
+            
+            border: 5px solid;
+            border-image-slice: 1;
+            border-image-source: linear-gradient(to right, #62C3E7, #F195B2);
+            transition: 3s;
+            /* color: black; */
+            margin-top: 30px;
+        }
+
+            .offers .box:hover {
+              /*   background: linear-gradient(to right, #62C3E7, #F195B2); */
+               /*  background-color: #62C3E7; */
+                transition: 0.8s;
+               /*  transform: translateY(-10px); */
+                box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+            }
+
+            .offers .box i {
+                font-size: 60px;
+                color: white;
+                margin-top: 25px;
+                margin-left: 30px;
+            }
+
+            .offers .box h3 {
+              /*   color: rgb(190, 185, 185); */
+                color: black;
+                margin-left: 2%;
+                margin-top: 2%;
+                font-size: 26px;
+            }
+
+            .offers .box h1 {
+                color: black;
+                margin-left: 4%;
+                margin-top: 2%;
+            }
+
+            .offers .box p {
+                color: black;
+                padding: 12px;
+                text-align: justify;
+            }
+</style>
+<body>
+    <h1 style="text-align: center; font-size: 50px; margin-top: 30px;">Free Recipe Available</h1>
+    <div class="offers">
+
+        <div class="container-fluid">
+
+            <div class="row">
+                @foreach (var item in Model)
+                {
+
+
+                    @* <h2 class="contact-header_One">That's What We OFFER</h2> *@
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="box">
+                            <h1 style="padding-top: 25px; padding-left: 15px;">@item.Recipe_Title</h1>
+                            <p>@item.Recipe_Description</p>
+                          @*   <a href="index.doc" download"><button type="button" class="btn btn-info">Free Recipe</button></a> *@
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
